@@ -1,6 +1,5 @@
 # Webproject
 MANGO DETECTION AND COUNTING SYSTEM
-Mango Detection and Counting System using YOLOv5
 
 This project presents a web-based intelligent system for detecting and counting mangoes using the YOLOv5 deep learning model. The system is designed to automate fruit yield estimation by identifying mangoes in both static images and real-time video streams.
 
